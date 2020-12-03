@@ -13,5 +13,5 @@ export const head: NuxtConfig["head"] = {
       content: process.env.APP_META_DESCRIPTION || ""
     }
   ],
-  link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }]
+  link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.png" }]
 };
