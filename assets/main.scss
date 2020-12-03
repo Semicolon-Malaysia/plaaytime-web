@@ -1,0 +1,19 @@
+.full {
+    &-width {
+      width: 100%;
+    }
+  
+    &-height {
+      height: 100%;
+    }
+
+    &-xy {
+      height: 100%;
+      width: 100%;
+    }
+  }
+
+.center-all {
+  justify-content: center;
+  align-items: center;
+}
