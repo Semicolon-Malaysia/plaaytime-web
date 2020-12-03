@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Futsal",
+    "id": 1,
+    "slug": "futsal"
+  },
+  {
+    "name": "Football",
+    "id": 2,
+    "slug": "football"
+  },
+  {
+    "name": "Basketball",
+    "id": 3,
+    "slug": "basketball"
+  },
+  {
+    "name": "Badminton",
+    "id": 4,
+    "slug": "badminton"
+  },
+  {
+    "name": "Tennis",
+    "id": 5,
+    "slug": "tennis"
+  },
+  {
+    "name": "Squash",
+    "id": 6,
+    "slug": "squash"
+  }
+]

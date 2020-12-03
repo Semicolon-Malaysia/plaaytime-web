@@ -20,7 +20,9 @@ export const vuetify = {
         info: process.env.THEME_INFO,
         warning: process.env.THEME_WARNING,
         error: process.env.THEME_ERROR,
-        success: process.env.THEME_SUCCESS
+        success: process.env.THEME_SUCCESS,
+        light: process.env.THEME_WHITE,
+        dark: process.env.THEME_BLACK
       },
       light: {
         primary: process.env.THEME_PRIMARY,
@@ -29,7 +31,9 @@ export const vuetify = {
         info: process.env.THEME_INFO,
         warning: process.env.THEME_WARNING,
         error: process.env.THEME_ERROR,
-        success: process.env.THEME_SUCCESS
+        success: process.env.THEME_SUCCESS,
+        light: process.env.THEME_WHITE,
+        dark: process.env.THEME_BLACK
       }
     }
   }
